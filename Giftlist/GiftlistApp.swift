@@ -11,7 +11,7 @@ import SwiftUI
 struct GiftlistApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }
