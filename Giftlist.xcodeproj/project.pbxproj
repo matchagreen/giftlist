@@ -25,6 +25,7 @@
 		629BB2442995EE8C00DBD152 /* Boards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Boards.swift; sourceTree = "<group>"; };
 		629BB2462995EEAF00DBD152 /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
 		629BB2482995EEF600DBD152 /* Friends.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Friends.swift; sourceTree = "<group>"; };
+		629BB24A2995F6CC00DBD152 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		629BB2252995EB5A00DBD152 = {
 			isa = PBXGroup;
 			children = (
+				629BB24A2995F6CC00DBD152 /* README.md */,
 				629BB2302995EB5A00DBD152 /* Giftlist */,
 				629BB22F2995EB5A00DBD152 /* Products */,
 			);
